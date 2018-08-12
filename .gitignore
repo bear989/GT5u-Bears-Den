@@ -11,7 +11,6 @@ thumbs.db
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 *.txt
@@ -24,6 +23,7 @@ hs_err_pid*
 *.pydevproject
 .metadata
 .gradle
+gradle/
 bin/
 tmp/
 *.tmp
