@@ -23,7 +23,6 @@ hs_err_pid*
 *.pydevproject
 .metadata
 .gradle
-gradle/
 bin/
 tmp/
 *.tmp
@@ -73,9 +72,6 @@ local.properties
 classes/
 
 /out/
-gradle/wrapper/gradle-wrapper.properties
-gradlew
-gradlew.bat
 
 # Linux
 *~
